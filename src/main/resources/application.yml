@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: hdfc-life-policy-ledger
+  profiles:
+    active: dev
+
+server:
+  port: 8080
